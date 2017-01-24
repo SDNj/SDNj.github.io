@@ -9,6 +9,6 @@ site on github
 
 [www.sdnj.ru](http://www.sdnj.ru/)
 
-[https://pages.github.com](Pages)
+[Pages](https://pages.github.com)
 
-[https://help.github.com/categories/customizing-github-pages/](Pages Help)
+[Pages Help](https://help.github.com/categories/customizing-github-pages/)
