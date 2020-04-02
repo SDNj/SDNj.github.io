@@ -90,7 +90,7 @@ body {
 	background:         linear-gradient(to bottom,  #6BD32B 0%, #509d20 100%);
 }
 
-.title, .title a {
+.title, .title a, aside a {
     color: white;
 }
 
